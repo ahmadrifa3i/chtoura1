@@ -63,3 +63,4 @@ https://saweria.co/kakzaki
 "# chtoura" 
 "# chtoura" 
 "# shtoura" 
+"# chtoura" 
